@@ -1,0 +1,45 @@
+body{
+    background-color: #333;
+    align-items: center;
+    text-align: center;
+    color:aliceblue;
+    font-family: 'Spartan', sans-serif;
+}
+h1{
+    font-family: 'Spartan', sans-serif;
+    color: aliceblue;
+    margin-top: 200px;
+}
+#btn1
+{
+    font-family: 'Spartan', sans-serif;
+    border: 2px dotted goldenrod;
+    color:goldenrod;
+    font-weight: 800;
+    padding:8px 22px;
+    border-radius: 12px;
+    margin-right:20px;
+    background-color: #333;
+    transition: 1s;
+}
+#btn2
+{
+    font-family: 'Spartan', sans-serif;
+    border: 2px dotted goldenrod;
+    color:goldenrod;
+    font-weight: 800;
+    padding:8px 22px;
+    border-radius: 12px;
+    margin-left:20px;
+    background-color: #333;
+    transition: 1s;
+}
+#btn1:hover
+{
+    padding-left:50px;
+}
+#btn2:hover{
+    padding-right:50px;
+}
+
+
